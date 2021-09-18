@@ -3,7 +3,7 @@
 ## Refactored with HTML Semantics
 
 ## Website
-https://github.com/Plaindemon/redesigned-octo-bassoon/blob/ad194b85957daa54683cd43f03e0b809524ff1f6/Develop/index.html
+https://plaindemon.github.io/redesigned-octo-bassoon/
 ## Contribution
 Made with ❤️️ by Horiseon
 refactored by Benjamin Chaplin
